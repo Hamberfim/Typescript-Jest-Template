@@ -1,2 +1,2 @@
-# Typescript_Template
+# Typescript Template
 A template for using Typescript
