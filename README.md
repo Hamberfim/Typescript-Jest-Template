@@ -68,7 +68,7 @@ i.e.,
     expect(sum(1, 2)).toBe(3);
   });
   ```
-
+OR
   ```javascript
   import { add } from "../src/index";
   describe("test add function in index file", () => {
