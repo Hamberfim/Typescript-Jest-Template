@@ -2,7 +2,7 @@
 
 A template for using Typescript and Jest
 
-### Already completed but these are the usual setup steps
+### The usual setup steps
 
 Create a src folder for the source code and a test folder for the unit tests
 
